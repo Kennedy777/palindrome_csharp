@@ -1,0 +1,4 @@
+/Users/Guest/Desktop/Testing123.solution/Palindrome/obj/Debug/netcoreapp2.2/Palindrome.csprojAssemblyReference.cache
+/Users/Guest/Desktop/Testing123.solution/Palindrome/obj/Debug/netcoreapp2.2/Palindrome.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Testing123.solution/Palindrome/obj/Debug/netcoreapp2.2/Palindrome.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/Testing123.solution/Palindrome/obj/Debug/netcoreapp2.2/Palindrome.AssemblyInfo.cs
