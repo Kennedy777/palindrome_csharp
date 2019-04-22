@@ -6,16 +6,24 @@ public class Palindrome
   {
     Console.WriteLine("Enter a word or number:"); 
     string palInput = Console.ReadLine();
-    var array = palInput.ToCharArray();
-    var reversArray = array.Reverse(array);
+    string string2 = "";
+
+    for(int i = palInput.Length-1;i > -1; i--)
+    {
+        string2 = string2 + palInput[i];
+    }
+
+
+    // var array = palInput.ToCharArray();
+    // var reversArray = array.Reverse(array);
    
-    if (array == reversArray) 
+    if (string2 == palInput) 
        {
        Console.WriteLine("This is a palindrome!");
        }
      else  
-      {      
+       {      
        Console.WriteLine("Nope, not a palindrome!");
-      }
+       }
   }
 }
